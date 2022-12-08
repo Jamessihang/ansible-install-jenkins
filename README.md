@@ -1,4 +1,4 @@
-# ansible_jenkins_argocd
+# ansible_jenkins
 1. create the ansible machine sg
     - ssh from ip
 

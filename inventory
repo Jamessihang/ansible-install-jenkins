@@ -1,4 +1,2 @@
 [jenkins-server]
 # private ipv4 address of jenkins server
-[argo-server]
-# private ipv4 address of argo server
